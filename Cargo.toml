@@ -1,0 +1,10 @@
+[package]
+name = "clippy-api"
+version = "0.1.0"
+authors = ["Edgar Onghena <dev@edgar.bzh>"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "1.4"
+rand = "0.8"
+rocket = "0.4"
